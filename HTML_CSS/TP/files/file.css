@@ -1,0 +1,123 @@
+
+button{
+    
+    border: none;
+    background-color: #d228e2;
+}
+
+.tp7{
+    background-color: #fff;
+}
+.compte{
+    margin: auto;
+    width: 50%;
+    
+}
+
+.tp4{
+   
+   margin: auto;
+   
+   
+}
+.entete{
+    border: 5px solid black;
+    margin: 0 auto;
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 60px;
+    text-align: center;
+    background-color: red;
+}
+
+.entete h1{
+    font-size: 60px;
+}
+.titre h1{
+    background-color: #e4a300; 
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    margin-top: 30px;
+    border: 2px solid #5613fc;
+    color: #5613fc;
+}
+.titre h2{
+    background-color: #e4a300; 
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    margin-top: 30px;
+    color: #5613fc;
+    
+}
+.content{
+    text-align: left;
+    margin-left: 40px;
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #ea8f40;
+}
+
+
+nav {
+    background-color: #31336a;
+    font-family: 'Poppins', sans-serif;
+    
+    width: 100%;
+    margin: auto;
+    
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px 14px 40px;
+    text-decoration: none;
+    position: relative;
+  }
+  
+  nav li a .icon-home {
+    background-image: url('icon-home.png');
+    background-repeat: no-repeat;
+    background-size: 24px 24px;
+    background-position: 10px center;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  nav li a:hover {
+    background-color: #efa925;
+  }
+  
+
+body div .tp4{
+    background-color: orange;
+}
+
+
+
+
+
+
